@@ -1,7 +1,5 @@
 project: mayhem-cmake-example
 target: fuzzme
 
-image: ghcr.io/mnthnx64/mayhem-cmake-example:latest
-
 cmds:
   - cmd: /fuzzme
